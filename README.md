@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/johnathon-ammon-turing-01a86919a/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="">
+  <a href="mailto:ammonj78@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
 </div>
